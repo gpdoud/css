@@ -1,0 +1,13 @@
+div {
+	border: 1px solid black;
+	margin:0;
+	padding: 0;
+}
+#pros, #cons, #prohead, #conhead {
+	width: 49.4%;	
+	display: inline-block;
+}
+#prohead, #conhead {
+	text-align: center;
+	border: 0;
+}
