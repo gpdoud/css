@@ -1,6 +1,12 @@
 body {
 	font-family: tahoma, arial, sans-serif;
-	font-size: 14pt;
+	font-size: 16pt;
 	/*font-weight: bold;*/
 	color: black;
+}
+.makebold {
+	font-weight: bold;
+}
+.makeitalic {
+	font-style: italic;
 }

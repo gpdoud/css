@@ -1,0 +1,46 @@
+div {
+	border: 1px solid silver;
+}
+span {
+	font-size: 0.7em;
+}
+#boldthis {
+	font-weight: bold;
+
+}
+#mainh1 {
+	font-size: 2.5em;
+	color: red;
+}
+a:link {
+	color: red;
+	text-decoration: none
+}
+a:visited {
+	color: green;
+}
+a:hover {
+	color: blue;
+}
+a:active {
+	color: black;
+}
+div#menu ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #333;
+	overflow: hidden;
+}
+div#menu li {
+	float: left;
+}
+div#menu li a {
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+div#menu li a:hover {
+	background-color: #111;
+}
